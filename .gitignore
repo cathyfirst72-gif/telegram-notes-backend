@@ -4,3 +4,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .venv/
+.agents/skills/telegram-notes/.models/
+.agents/skills/telegram-notes/.cache/
+.agents/skills/telegram-notes/.tools/
+.agents/skills/telegram-notes/.python/
